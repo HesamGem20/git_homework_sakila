@@ -1,4 +1,5 @@
 -- Task 1 - Show all actors' first and last names
+-- revision 1
 SELECT first_name, last_name
 FROM actor;
 
